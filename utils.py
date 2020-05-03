@@ -1,7 +1,7 @@
 # utils.py
 # Math library
 # Author: Sébastien Combéfis
-# Version: February 8, 2018
+# Version: February 8, 2018, okok
 from math import sqrt
 
 def fact(n):
@@ -9,7 +9,7 @@ def fact(n):
 	for i in range (0,n):
 		x = x*(i+1)
 	return x
-"heooooooo enfoiréééé ça fonctinne mnt ?"
+
 def roots(a, b, c):
 	d = b**2 - 4*a*c
 	if d < 0 :
