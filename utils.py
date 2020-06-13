@@ -1,7 +1,7 @@
 # utils.py
 # Math library
 # Author: Sébastien Combéfis
-# Version: February 8, 2018
+# Version: February 8, 2018, okok
 from math import sqrt
 
 def fact(n):
